@@ -2,7 +2,7 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert' show json;
-import 'package:myapp/CovidData.dart';
+import 'package:covid19tracker/CovidData.dart';
 
 void main() => runApp(MaterialApp(
       home: new HomePage(),

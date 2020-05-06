@@ -1,4 +1,4 @@
-package com.akshay.myapp
+package com.akshay.covid19tracker
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
